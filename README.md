@@ -1,10 +1,8 @@
-# 🍺 tododo brew
+# 🍺 Bmarse's Homebrew Tap
+Homebrew Tap for the [tododo](https://github.com/bmarse/tododo) TUI todo manager and future bmarse tools.
 
-Homebrew Tap for the [tododo](https://github.com/bmarse/tododo) TUI todo manager.
-
-## Installation
-
+## Tododo Installation
 ```bash
-brew tap bmarse/tododo
+brew tap bmarse/tap
 brew install tododo
 ```
